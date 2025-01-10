@@ -2,9 +2,6 @@
   Welcome! Task 1 README.md Profile
 </h1>
 
-<p align='center'>
-  Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/Surajtiwari001'>here</a>
-</p>
 
 <p align='center'>
   <a href="https://github.com/sponsors/Surajtiwari001"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
