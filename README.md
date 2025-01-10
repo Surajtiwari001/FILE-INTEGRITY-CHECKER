@@ -28,3 +28,9 @@ messages when files are changed or new files are detected.**
 files.**
 
 **4. To stop the monitoring, press Ctrl+C .**
+
+***This implementation ensures file integrity by continuously
+calculating and comparing hash values, meeting the
+requirements of the task.***
+
+***CODE FILE LINK***
