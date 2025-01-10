@@ -34,3 +34,4 @@ calculating and comparing hash values, meeting the
 requirements of the task.***
 
 ***CODE FILE LINK***
+TASK 1.pdf
